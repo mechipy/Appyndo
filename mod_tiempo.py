@@ -8,7 +8,6 @@ def imprimir_segun_tiempo(tiempo: float, cadena, intervalo=.1):
         time.sleep(intervalo)
 
 
-
 imprimir_algo = input(" Ingrese lo que quisiera ver: ")
 tiempo_a_imprimir = float(input(" ingrese un valor: "))
 
